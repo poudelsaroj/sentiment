@@ -1,0 +1,9 @@
+fastapi
+pre-commit
+pydantic
+pydantic_settings
+pytest
+python-dotenv
+scikit-learn
+textblob
+uvicorn[standard]
